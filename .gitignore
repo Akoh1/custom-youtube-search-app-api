@@ -14,6 +14,7 @@ ENV/
 *.idea/
 .idea/
 .idea/**
+__pycache__
 
 # Settings
 # django-ecommerce/settings/production.py
