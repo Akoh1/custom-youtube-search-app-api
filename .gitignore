@@ -19,7 +19,8 @@ __pycache__
 # Settings
 # django-ecommerce/settings/production.py
 # django-ecommerce/wsgi.py
-# manage.py
+my_video_api/wsgi.py
+manage.py
 
 # Distribution / packaging 
 .Python build/ 
